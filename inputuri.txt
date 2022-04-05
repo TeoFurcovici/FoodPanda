@@ -1,0 +1,64 @@
+{
+   "firstName": "Dana",
+   "lastName": "Furcovici",
+   "email":"dana@gmail.com",
+   "password": "dana12345!",
+   "username": "Dana11"
+}
+
+
+{
+   "name":"Zama",
+   "location":"Str. Memorandumului 11",
+   "zoneName":"Zorilor",
+   "adminUsername":"TeoF11"
+}
+
+{
+    "zoneName": "Zorilor",
+    "distanceFromCurrentLoc": 240
+
+}
+
+{
+   "menuName":"MenuEngles",
+   "restaurantName":"Engles"
+}
+
+{
+   "name":"Lunch",
+   "menuName":"MenuZama"
+}
+{
+    "name": "Mic dejun 1",
+    "description":"Omleta cu sunca si branza, paine si ceai",
+    "price": 23.32,
+    "categoryName":"Breakfast",
+    "restaurantName":"Zama"
+}
+
+{
+    "name": "Meniul zilei 1",
+    "description":"Supa de pui cu taitei, orez cu piept de pui si salata de varza",
+    "price": 23.32,
+    "categoryName":"Lunch",
+    "restaurantName":"Engles"
+}
+
+{
+    "foodName": "Mic dejun 1",
+    "restaurantName":"Zama",
+    "clientUsername":"Dana11"
+}
+
+{
+    "orderId":"12",
+    "orderStatus":"ACCEPTED"
+}
+
+{
+   "name":"Engles",
+   "location":"Str. Dorobantilor 101",
+   "zoneName":"Marasti",
+   "adminUsername":"teoF1905"
+}
